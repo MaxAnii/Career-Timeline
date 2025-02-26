@@ -1,27 +1,25 @@
 [
 	{
-		timePeriod: "Nov 2024 - Present",
-		company: "BlueTick Consultants LLP | Remote",
-		role: "Frontend Intern",
-		description:
-			"As an intern, I am actively contributing to various key projects within my team. I revamped the previous codebase to improve performance by as much as 30%.",
-		techStack: [
+		"timePeriod": "Nov 2024 - Present",
+		"company": "BlueTick Consultants LLP | Remote",
+		"role": "Frontend Intern",
+		"description": "As an intern, I am actively contributing to various key projects within my team. I revamped the previous codebase to improve performance by as much as 30%.",
+		"techStack": [
 			"TypeScript",
 			"React JS",
 			"Python",
 			"Figma",
 			"Bootstrap",
 			"Tailwind CSS",
-			"jQuery",
-		],
+			"jQuery"
+		]
 	},
 	{
-		timePeriod: "Nov 2022 - Dec 2022",
-		company: "Elogixa Pvt. Lmt. | Mangalore, Karnataka",
-		role: "Software Developer Intern",
-		description:
-			"As an intern at Elogixa, I contributed to the design and development of our Transportation Management System (TMS) using the latest technology stack.",
-		techStack: [
+		"timePeriod": "Nov 2022 - Dec 2022",
+		"company": "Elogixa Pvt. Lmt. | Mangalore, Karnataka",
+		"role": "Software Developer Intern",
+		"description": "As an intern at Elogixa, I contributed to the design and development of our Transportation Management System (TMS) using the latest technology stack.",
+		"techStack": [
 			"Canva",
 			"Figma",
 			"TypeScript",
@@ -29,29 +27,27 @@
 			"Tailwind CSS",
 			"Node.js",
 			"MySQL",
-			"Express.js",
-		],
+			"Express.js"
+		]
 	},
 	{
-		timePeriod: "Jul 2023 - Dec 2023",
-		company: "Karnataka State Pollution Control Board | Mangalore, Karnataka",
-		role: "Software Developer",
-		description:
-			"Led development of a user-friendly data management system for industries. Enabled input of crucial environmental metrics, including water and biodegradable waste. Designed advanced filtering options, resulting in a 30% reduction in time spent on data retrieval. Incorporated seamless Excel export functionality, improving user experience and productivity by 20%.",
-		techStack: [
+		"timePeriod": "Jul 2023 - Dec 2023",
+		"company": "Karnataka State Pollution Control Board | Mangalore, Karnataka",
+		"role": "Software Developer",
+		"description": "Led development of a user-friendly data management system for industries. Enabled input of crucial environmental metrics, including water and biodegradable waste. Designed advanced filtering options, resulting in a 30% reduction in time spent on data retrieval. Incorporated seamless Excel export functionality, improving user experience and productivity by 20%.",
+		"techStack": [
 			"React JS",
 			"Node.js",
 			"Electron.js",
 			"PostgreSQL",
-			"Express.js",
-		],
+			"Express.js"
+		]
 	},
 	{
-		timePeriod: "Nov 2022 - Dec 2022",
-		company: "Varcons Technologies Pvt Ltd | Bangalore, Karnataka",
-		role: "Full Stack Intern",
-		description:
-			"I led a team of 5 in the creation of the 'Leisure Square' café website. Managed team projects and developed a responsive website, fulfilling project deadlines with a 95% on-time rate.",
-		techStack: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-	},
-];
+		"timePeriod": "Nov 2022 - Dec 2022",
+		"company": "Varcons Technologies Pvt Ltd | Bangalore, Karnataka",
+		"role": "Full Stack Intern",
+		"description": "I led a team of 5 in the creation of the 'Leisure Square' café website. Managed team projects and developed a responsive website, fulfilling project deadlines with a 95% on-time rate.",
+		"techStack": ["HTML", "CSS", "JavaScript", "Bootstrap"]
+	}
+]
